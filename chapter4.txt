@@ -1,0 +1,3 @@
+Currently i am learning React js and working on my own portfolio.
+I have done some projects like portfolio sample, calculator using html, css and javascript, Birthday reminder card using react js,
+i give challange to myself complete 50 days projects etc.
